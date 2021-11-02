@@ -4,4 +4,4 @@ Here are some notes about the tools I occasionally used to solve some problems d
 
 Please be aware that the content is unplanned and could be pretty unorganized. 
 
-- [Compact WSL VHD](.\wsl\compact-wsl-vhd.md)
+- [Compact WSL VHD](./wsl/compact-wsl-vhd.md)
